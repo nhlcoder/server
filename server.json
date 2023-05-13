@@ -1,0 +1,40 @@
+{
+  "User": [
+    {
+      "UserName": "UserName",
+      "Password": "Password",
+      "Email": "Email",
+      "FirstName": "FirstName",
+      "SurName": "SurName",
+      "FullName": "FullName",
+      "Address": {
+        "ProvinceName": "ProvinceName",
+        "DistrictName": "DistrictName",
+        "WardName": "WardName",
+        "AddressNo": "AddressNo",
+        "FullName": "FullName"
+      },
+      "DateOfBir": "DateOfBir",
+      "IntroduceYourself": "IntroduceYourself",
+      "id": 0
+    },
+    {
+      "UserName": "UserName1",
+      "Password": "Password1",
+      "Email": "Email1",
+      "FirstName": "FirstName1",
+      "SurName": "SurName1",
+      "FullName": "FullName1",
+      "Address": {
+        "ProvinceName": "ProvinceName1",
+        "DistrictName": "DistrictName1",
+        "WardName": "WardName1",
+        "AddressNo": "AddressNo1",
+        "FullName": "FullName1"
+      },
+      "DateOfBir": "DateOfBir1",
+      "IntroduceYourself": "IntroduceYourself1",
+      "id": 1
+    }
+  ]
+}
